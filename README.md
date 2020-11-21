@@ -1,2 +1,2 @@
-# Projeto da Disciplina de Estatistica aplicada computação
+# Projeto da Disciplina de Estatística aplicada computação
 ## Projeto desenvolvido por Pamela 
